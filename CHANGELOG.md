@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.15](https://github.com/rab-dot/testLib/compare/v0.0.13...v0.0.15) (2026-03-13)
+
+
+### Bug Fixes
+
+* ci tags ([17c81dc](https://github.com/rab-dot/testLib/commit/17c81dc2278bf427cb3f04e9b2315234447d5cd9))
+
+
+### CI/CD
+
+* added tags for triggering ([0829efe](https://github.com/rab-dot/testLib/commit/0829efea5782cdf0893abb5eb36e957befa63c8f))
+
 ## [0.0.14](https://github.com/rab-dot/testLib/compare/v0.0.13...v0.0.14) (2026-03-13)
 
 
