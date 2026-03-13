@@ -1,3 +1,4 @@
+## [0.0.9](https://github.com/rab-dot/testLib/compare/v0.0.8...v0.0.9) (2026-03-13)
 ## [0.0.8](https://github.com/rab-dot/testLib/compare/v0.0.7...v0.0.8) (2026-03-13)
 ## <small>0.0.7 (2026-03-13)</small>
 
