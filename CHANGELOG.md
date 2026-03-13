@@ -1,3 +1,6 @@
+## <small>0.0.7 (2026-03-13)</small>
+
+* docs: script ([7bbcc81](https://github.com/rab-dot/testLib/commit/7bbcc81))
 ## [0.0.6](https://github.com/rab-dot/testLib/compare/v0.0.5...v0.0.6) (2026-03-13)
 ## [0.0.5](https://github.com/rab-dot/testLib/compare/v0.0.4...v0.0.5) (2026-03-13)
 ## [0.0.4](https://github.com/rab-dot/testLib/compare/v0.0.3...v0.0.4) (2026-03-13)
