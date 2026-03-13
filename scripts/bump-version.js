@@ -55,7 +55,9 @@ function updatePackageJsonVersion(newVersion) {
 
 function createGitTag(version) {
   try {
-    execSync(`git tag v${version}`, { stdio: 'pipe' })
+    execSync(`git tag -a v${version} -m "chore: release v${version}"`, {
+      stdio: 'pipe',
+    })
   } catch (error) {
     // Tag might already exist, ignore
   }
