@@ -10,7 +10,7 @@
     "build": "yarn typegen && tsc && vite build",
     "typegen": "npx @chakra-ui/cli typegen src/shared/theme/index.ts",
     "preview": "vite preview",
-    "changelog": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -s",
+    "changelog": "conventional-changelog -i CHANGELOG.md -s",
     "changelog:init": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -s -r 0",
     "version:patch": "node scripts/bump-version.js patch",
     "version:minor": "node scripts/bump-version.js minor",
