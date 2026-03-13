@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/common.sh"
+
+npx lint-staged
+
+# Run Steiger FSD validation on entire codebase
+yarn run lint:fsd

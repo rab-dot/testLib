@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "baseUrl": ".",
+    "useDefineForClassFields": true,
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "allowJs": false,
+    "skipLibCheck": true,
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "types": ["vitest/globals", "@testing-library/jest-dom", "react"],
+    "paths": {
+      "@/*": ["./src/*", "node_modules/*"],
+      "app/*": ["./src/app/*"],
+      "shared/*": ["./src/shared/*"],
+      "features/*": ["./src/features/*"],
+      "entities/*": ["./src/entities/*"],
+      "pages/*": ["./src/pages/*"],
+      "processes/*": ["./src/processes/*"],
+      "assets/*": ["./src/assets/*"],
+      "widgets/*": ["./src/widgets/*"]
+    }
+  },
+  "include": ["src", "vitest.setup.ts", "steiger.config.ts"],
+  "exclude": ["node_modules"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

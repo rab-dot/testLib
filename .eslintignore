@@ -1,0 +1,10 @@
+node_modules/*
+.eslintrc.json
+build/
+dist/
+vite.config.ts
+vitest.config.ts
+src/vite-env.d.ts
+coverage
+tailwind.config.ts
+postcss.config.js
