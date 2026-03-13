@@ -66,7 +66,7 @@ function createGitTag(version) {
 function generateChangelog() {
   try {
     execSync(
-      'yarn conventional-changelog -p conventionalcommits -i CHANGELOG.md -s --config .versionrc.json',
+      'yarn conventional-changelog -p conventionalcommits -i CHANGELOG.md -s',
       { stdio: 'inherit' }
     )
   } catch (error) {
