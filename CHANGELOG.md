@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.17](https://github.com/rab-dot/testLib/compare/v0.0.16...v0.0.17) (2026-03-13)
+
+
+### CI/CD
+
+* added needs ([5793979](https://github.com/rab-dot/testLib/commit/57939793501bf96f4f711d5a1981dcb08a73a833))
+
 ## [0.0.16](https://github.com/rab-dot/testLib/compare/v0.0.15...v0.0.16) (2026-03-13)
 
 
