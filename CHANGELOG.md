@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.11](https://github.com/rab-dot/testLib/compare/v0.0.10...v0.0.11) (2026-03-13)
+
+
+### Documentation
+
+* change package ([45fec2b](https://github.com/rab-dot/testLib/commit/45fec2baa9356c6320c095fd367b0c2b2912b423))
+
 ## [0.0.10](https://github.com/rab-dot/testLib/compare/v0.0.9...v0.0.10) (2026-03-13)
 
 ## [0.0.9](https://github.com/rab-dot/testLib/compare/v0.0.8...v0.0.9) (2026-03-13)
