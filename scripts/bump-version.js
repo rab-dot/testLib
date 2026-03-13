@@ -65,10 +65,9 @@ function createGitTag(version) {
 
 function generateChangelog() {
   try {
-    execSync(
-      'yarn conventional-changelog -p conventionalcommits -i CHANGELOG.md -s',
-      { stdio: 'inherit' }
-    )
+    execSync('yarn conventional-changelog -i CHANGELOG.md -s', {
+      stdio: 'inherit',
+    })
   } catch (error) {
     console.warn('⚠️  Changelog generation had issues, but continuing...')
   }
