@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.16](https://github.com/rab-dot/testLib/compare/v0.0.15...v0.0.16) (2026-03-13)
+
+
+### CI/CD
+
+* added release pipeline ([7cb879b](https://github.com/rab-dot/testLib/commit/7cb879be31b42773bccd30df711566b1b657ad97))
+
 ## [0.0.15](https://github.com/rab-dot/testLib/compare/v0.0.13...v0.0.15) (2026-03-13)
 
 
