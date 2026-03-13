@@ -9,9 +9,9 @@
     { "type": "docs", "section": "Documentation" },
     { "type": "refactor", "section": "Refactoring" },
     { "type": "perf", "section": "Performance" },
+    { "type": "ci", "section": "CI/CD" },
     { "type": "chore", "hidden": true },
     { "type": "style", "hidden": true },
-    { "type": "test", "hidden": true },
-    { "type": "ci", "hidden": true }
+    { "type": "test", "hidden": true }
   ]
 }
