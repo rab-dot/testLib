@@ -1,3 +1,8 @@
+## [0.0.3](https://github.com/rab-dot/testLib/compare/v0.0.2...v0.0.3) (2026-03-13)
+
+### Features
+
+* **pages:** testing feature ([dfa5b26](https://github.com/rab-dot/testLib/commit/dfa5b26fd240ee7def059f690d033ca072eeb682))
 ## [0.0.2](https://github.com/rab-dot/testLib/compare/v0.0.1...v0.0.2) (2026-03-13)
 ## 0.0.1 (2026-03-13)
 ## 0.0.0 (2026-03-13)
